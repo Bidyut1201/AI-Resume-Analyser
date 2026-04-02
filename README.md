@@ -2,6 +2,7 @@
 
 An AI-powered web application that analyzes resumes against job descriptions to provide match scores, personalized feedback, and interview preparation insights.
 
+
 📌 FEATURES :
 
 📄 Upload resume (PDF format) for analysis
