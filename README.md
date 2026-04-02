@@ -2,7 +2,7 @@
 
 An AI-powered web application that analyzes resumes against job descriptions to provide match scores, personalized feedback, and interview preparation insights.
 
-📌 FEATURES
+📌 FEATURES :
 📄 Upload resume (PDF format) for analysis
 🧠 AI-based match score between resume and job description
 📊 Skill gap analysis to identify missing skills
@@ -11,7 +11,7 @@ An AI-powered web application that analyzes resumes against job descriptions to 
 🔐 Secure user authentication (JWT-based login/register)
 📥 Download ATS-friendly resume as PDF using Puppeteer
 
-🛠️ TECH STACK
+🛠️ TECH STACK :
   Frontend: React.js
   Backend: Node.js, Express.js
   Database: MongoDB
